@@ -8,6 +8,7 @@ public class DevconnectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DevconnectApplication.class, args);
+		System.out.println("Hello World!");
 	}
 
 }
